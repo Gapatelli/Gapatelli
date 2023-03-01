@@ -15,4 +15,3 @@
   
 </div>
 
-![Snake animation](https://github.com/japatelli/japatelli/blob/output/github-contribution-grid-snake.svg)
