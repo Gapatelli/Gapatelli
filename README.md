@@ -6,6 +6,18 @@
 
 ---
 
+💼 Experiência Profissional
+
+📊 Analista Jr – Sales Intelligence
+
+Análise e Desenvolvimento de Relatórios Gerenciais
+
+Uso de Power Query, Power BI, Excel e SAP para criação de relatórios e dashboards.
+
+Geração de tempo e eficiência com automação de processos em VBA.
+
+---
+
 ## 📚 Sobre mim
 - 📖 Cursando **Análise e Desenvolvimento de Sistemas**
 - 🎓 Ensino Médio Técnico em **Informática**
